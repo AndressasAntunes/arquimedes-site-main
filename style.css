@@ -618,4 +618,24 @@ html {
   font-size: 1rem;
 }
 
+.book-gallery, .book-item, .img {
+   background-color: #efecff;
+  min-height: 50vh;
+  padding: 4rem 2rem;
+}
+
+}
+
+
+.botao-livros {
+      display: inline-block;
+      padding: 12px 20px;
+      font-size: 16px;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background-color 0.3s;
+    }
+
+  
 }
